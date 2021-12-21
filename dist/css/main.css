@@ -55,7 +55,7 @@
     .menu-branding .portrait {
       width: 250px;
       height: 250px;
-      background: url("/imgs/portrait.jpg");
+      background: url("../imgs/portrait.jpg");
       border-radius: 50%;
       border: solid 3px #eece1a; }
   .menu .nav-item {
@@ -317,7 +317,7 @@ h2#type {
     .menu-branding .portrait {
       width: 150px;
       height: 150px;
-      background: url("/imgs/portraitSmall.png");
+      background: url("../imgs/portraitSmall.png");
       background-size: cover; }
   .about-info {
     grid-template-areas: "biotitle" "bio" "job1" "job2" "job3";
